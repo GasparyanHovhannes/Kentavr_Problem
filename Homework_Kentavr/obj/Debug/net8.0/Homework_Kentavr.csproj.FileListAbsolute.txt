@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Homework_Kentavr\Homework_Kentavr\bin\Debug\net8.0\Homework_Kentavr.exe
+C:\Users\Asus\source\repos\Homework_Kentavr\Homework_Kentavr\bin\Debug\net8.0\Homework_Kentavr.deps.json
+C:\Users\Asus\source\repos\Homework_Kentavr\Homework_Kentavr\bin\Debug\net8.0\Homework_Kentavr.runtimeconfig.json
+C:\Users\Asus\source\repos\Homework_Kentavr\Homework_Kentavr\bin\Debug\net8.0\Homework_Kentavr.dll
+C:\Users\Asus\source\repos\Homework_Kentavr\Homework_Kentavr\bin\Debug\net8.0\Homework_Kentavr.pdb
+C:\Users\Asus\source\repos\Homework_Kentavr\Homework_Kentavr\obj\Debug\net8.0\Homework_Kentavr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Homework_Kentavr\Homework_Kentavr\obj\Debug\net8.0\Homework_Kentavr.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Homework_Kentavr\Homework_Kentavr\obj\Debug\net8.0\Homework_Kentavr.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Homework_Kentavr\Homework_Kentavr\obj\Debug\net8.0\Homework_Kentavr.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Homework_Kentavr\Homework_Kentavr\obj\Debug\net8.0\Homework_Kentavr.dll
+C:\Users\Asus\source\repos\Homework_Kentavr\Homework_Kentavr\obj\Debug\net8.0\refint\Homework_Kentavr.dll
+C:\Users\Asus\source\repos\Homework_Kentavr\Homework_Kentavr\obj\Debug\net8.0\Homework_Kentavr.pdb
+C:\Users\Asus\source\repos\Homework_Kentavr\Homework_Kentavr\obj\Debug\net8.0\Homework_Kentavr.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Homework_Kentavr\Homework_Kentavr\obj\Debug\net8.0\ref\Homework_Kentavr.dll

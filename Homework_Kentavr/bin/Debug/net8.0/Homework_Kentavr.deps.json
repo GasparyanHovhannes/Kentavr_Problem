@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Homework_Kentavr/1.0.0": {
+        "runtime": {
+          "Homework_Kentavr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework_Kentavr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
